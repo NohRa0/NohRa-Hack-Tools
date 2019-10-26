@@ -8,6 +8,7 @@
 
     $ pip2 install -r requirements.txt
  chmod +x *
+ NohRaHackTools.py
 
 2. Explore the Software:
   a. DDOS Tool: To take down small websites with HTTP FLOOD (Packets).
