@@ -7,6 +7,7 @@
 1. Installation Guide:
 
     $ pip2 install -r requirements.txt
+ chmod +x *
 
 2. Explore the Software:
   a. DDOS Tool: To take down small websites with HTTP FLOOD (Packets).
