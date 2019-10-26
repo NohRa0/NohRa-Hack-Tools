@@ -240,7 +240,12 @@ def spider(host):
 	
 def main():
     print "-"*60+"\n"
-    print "                  Dark Fantasy - Hack Tool                    "
+    print "                      __   _   _____   _   _   _____        ___        _   _       ___   _____   _   _         _____   _____   _____   _       _____  
+|  \ | | /  _  \ | | | | |  _  \      /   |      | | | |     /   | /  ___| | | / /       |_   _| /  _  \ /  _  \ | |     /  ___/ 
+|   \| | | | | | | |_| | | |_| |     / /| |      | |_| |    / /| | | |     | |/ /          | |   | | | | | | | | | |     | |___  
+| |\   | | | | | |  _  | |  _  /    / / | |      |  _  |   / / | | | |     | |\ \          | |   | | | | | | | | | |     \___  \ 
+| | \  | | |_| | | | | | | | \ \   / /  | |      | | | |  / /  | | | |___  | | \ \         | |   | |_| | | |_| | | |___   ___| | 
+|_|  \_| \_____/ |_| |_| |_|  \_\ /_/   |_|      |_| |_| /_/   |_| \_____| |_|  \_\        |_|   \_____/ \_____/ |_____| /_____/                  "
     print "-"*60+"\n"
     print "1.Port Scanning\n2.DDOS\n3.Banner Grabbing\n4.Web spider(gather all URLs for web hacking)\n5.FTP Password Cracker\n6.Email Scraping\n7.IMDB Rating"
     choice=raw_input("Enter Your Choice: ")
